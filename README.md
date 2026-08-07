@@ -4,16 +4,16 @@
 
 <div align="center">
 
-<h1>Hi 👋, I'm Sandy Aulia Ramadhan</h1>
+# 👋 Hi, I'm Sandy Aulia Ramadhan
 
-<h3>Software Engineering Student • Backend & Full Stack Developer</h3>
+### Software Engineering Student • Learning Full Stack Development
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Software+Engineering+Student+%F0%9F%8E%93;Backend+Development+Enthusiast+%F0%9F%92%BB;Learning+Go+%26+Vue.js+%F0%9F%9A%80;Exploring+Clean+Architecture+%F0%9F%8F%97%EF%B8%8F;Keep+Learning.+Keep+Building.+Keep+Growing.+%E2%9C%A8"
-  alt="Typing Animation"
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=760&lines=Software+Engineering+Student+%F0%9F%8E%93;Learning+Full+Stack+Development+%F0%9F%92%BB;Backend+with+Go+%26+Laravel+%E2%9A%99%EF%B8%8F;Frontend+with+Vue.js+%F0%9F%92%9A;MySQL+%26+PostgreSQL+%F0%9F%97%84%EF%B8%8F;Keep+Learning.+Keep+Building.+Keep+Growing.+%F0%9F%9A%80"
+  alt="Typing SVG"
 />
 
-<br/><br/>
+<br/>
 
 <img
   src="https://komarev.com/ghpvc/?username=SeenD4Y&label=PROFILE+VIEWS&color=0969DA&style=for-the-badge"
@@ -42,20 +42,23 @@
   alt="Developer Coding Animation"
 />
 
-Hi! I'm **Sandy Aulia Ramadhan**, a Software Engineering student from Indonesia 🇮🇩 with a strong interest in **backend development and modern web applications**.
+Hi! I'm **Sandy Aulia Ramadhan**, a Software Engineering student from Indonesia 🇮🇩 who is currently learning **Full Stack Development**.
 
-I enjoy learning how applications work behind the scenes — from designing databases and building REST APIs to connecting backend services with modern frontend interfaces.
+I enjoy understanding how modern web applications work from end to end — starting from database design and backend APIs to frontend interfaces and application integration.
 
 - 🎓 Software Engineering Student **(RPL)**
 - 💼 Backend & Full Stack Developer Intern
-- 🐹 Currently exploring **Go Backend Development**
-- 💚 Building interfaces with **Vue.js**
+- 🌱 Currently learning **Full Stack Development**
+- 🐹 Exploring backend development with **Go**
+- 🔴 Building web applications with **Laravel**
+- 💚 Learning modern frontend development with **Vue.js**
+- 🐬 Working with **MySQL**
 - 🐘 Working with **PostgreSQL**
-- 🏗️ Learning **Clean Architecture**
-- 🌐 Interested in **REST API & System Architecture**
-- 🔐 Exploring **Authentication & Role-Based Access Control**
-- 🚀 Focused on writing clean and maintainable code
-- 🤝 Open to collaboration and learning opportunities
+- 🌐 Interested in **REST API & Web Application Development**
+- 🔐 Learning **Authentication & Role-Based Access Control**
+- 🏗️ Exploring **Clean Architecture**
+- 🚀 Focused on writing clean, maintainable, and structured code
+- 🤝 Open to learning, collaboration, and new development experiences
 
 <br clear="both"/>
 
@@ -78,7 +81,7 @@ I enjoy learning how applications work behind the scenes — from designing data
 
 <br/><br/>
 
-### ⚙️ Frameworks & Technologies
+### ⚙️ Frameworks & Frontend
 
 <img
   src="https://skillicons.dev/icons?i=laravel,vue,tailwind&theme=dark"
@@ -90,7 +93,7 @@ I enjoy learning how applications work behind the scenes — from designing data
 ### 🗄️ Databases
 
 <img
-  src="https://skillicons.dev/icons?i=postgres,mysql&theme=dark"
+  src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark"
   alt="Databases"
 />
 
@@ -103,128 +106,101 @@ I enjoy learning how applications work behind the scenes — from designing data
   alt="Development Tools"
 />
 
+<br/><br/>
+
+<img
+  src="https://img.shields.io/badge/Antigravity-AI%20Development-6C63FF?style=for-the-badge"
+  alt="Antigravity"
+/>
+
 </div>
 
 ---
 
 <!-- ===================================================== -->
-<!--                  CURRENTLY LEARNING                   -->
+<!--                 CURRENTLY LEARNING                    -->
 <!-- ===================================================== -->
 
 ## 🚀 Currently Learning
 
 <div align="center">
 
-| Technology | Focus |
+| Technology | Learning Focus |
 | :---: | :--- |
-| 🐹 **Go** | REST API, Backend Services & Application Architecture |
-| 💚 **Vue.js** | Modern Frontend Development |
-| 🐘 **PostgreSQL** | Database Design & Querying |
-| 🏗️ **Clean Architecture** | Maintainable & Scalable Applications |
-| 🔐 **Authentication** | JWT & Role-Based Access Control |
-| 🌐 **REST API** | API Design & Frontend Integration |
+| 🌐 **Full Stack Development** | Building complete web applications from frontend to backend |
+| 🐹 **Go** | REST API, Backend Services & Application Structure |
+| 🔴 **Laravel** | MVC, REST API, Authentication & Backend Development |
+| 💚 **Vue.js** | Components, Routing & API Integration |
+| 🐬 **MySQL** | Relational Database Design & Queries |
+| 🐘 **PostgreSQL** | Database Design, Relations & Data Management |
+| 🏗️ **Clean Architecture** | Maintainable & Structured Applications |
+| 🔐 **Authentication** | JWT, Authorization & Role-Based Access Control |
 
 </div>
 
 ---
 
 <!-- ===================================================== -->
-<!--                  DEVELOPER MINDSET                    -->
+<!--                DEVELOPMENT FOCUS                      -->
 <!-- ===================================================== -->
 
-## 💡 Developer Mindset
-
-```go
-package main
-
-import "fmt"
-
-type Developer struct {
-	Name       string
-	Role       string
-	Focus      []string
-	Mindset    string
-}
-
-func main() {
-	developer := Developer{
-		Name: "Sandy Aulia Ramadhan",
-		Role: "Software Engineering Student",
-		Focus: []string{
-			"Backend Development",
-			"Go",
-			"Vue.js",
-			"PostgreSQL",
-			"Clean Architecture",
-		},
-		Mindset: "Keep learning. Keep building. Keep improving.",
-	}
-
-	fmt.Printf(
-		"Hi, I'm %s 👋\nRole: %s\nMindset: %s\n",
-		developer.Name,
-		developer.Role,
-		developer.Mindset,
-	)
-}
-```
-
----
-
-<!-- ===================================================== -->
-<!--                     DEV TERMINAL                      -->
-<!-- ===================================================== -->
-
-## 🖥️ Developer Terminal
-
-```bash
-$ whoami
-Sandy Aulia Ramadhan
-
-$ current-role
-Software Engineering Student
-
-$ current-focus
-Backend Development
-
-$ currently-learning
-Go
-Vue.js
-PostgreSQL
-Clean Architecture
-
-$ status
-Building...
-
-$ motivation
-Keep learning. Keep building. Keep improving. 🚀
-```
-
----
-
-<!-- ===================================================== -->
-<!--                    GITHUB STATS                       -->
-<!-- ===================================================== -->
-
-## 📊 GitHub Overview
+## 🎯 Development Focus
 
 <div align="center">
 
 <img
-  width="49%"
-  src="https://github-readme-stats.vercel.app/api?username=SeenD4Y&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9"
-  alt="GitHub Stats"
+  src="https://img.shields.io/badge/Full%20Stack-Development-0969DA?style=for-the-badge"
+  alt="Full Stack Development"
 />
 
 <img
-  width="49%"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeenD4Y&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"
-  alt="Most Used Languages"
+  src="https://img.shields.io/badge/Backend-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"
+  alt="Go Backend"
+/>
+
+<img
+  src="https://img.shields.io/badge/Backend-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"
+  alt="Laravel"
+/>
+
+<br/><br/>
+
+<img
+  src="https://img.shields.io/badge/Frontend-Vue.js-42B883?style=for-the-badge&logo=vuedotjs&logoColor=white"
+  alt="Vue.js"
+/>
+
+<img
+  src="https://img.shields.io/badge/Database-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"
+  alt="MySQL"
+/>
+
+<img
+  src="https://img.shields.io/badge/Database-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"
+  alt="PostgreSQL"
+/>
+
+<br/><br/>
+
+<img
+  src="https://img.shields.io/badge/API-REST-181717?style=for-the-badge&logo=postman&logoColor=white"
+  alt="REST API"
+/>
+
+<img
+  src="https://img.shields.io/badge/Architecture-Clean%20Architecture-0969DA?style=for-the-badge"
+  alt="Clean Architecture"
 />
 
 </div>
 
-<br/>
+---
+
+<!-- ===================================================== -->
+<!--                    GITHUB ACTIVITY                    -->
+<!-- ===================================================== -->
+
+## 📊 GitHub Activity
 
 <div align="center">
 
@@ -236,19 +212,13 @@ Keep learning. Keep building. Keep improving. 🚀
 
 </div>
 
----
-
-<!-- ===================================================== -->
-<!--                 CONTRIBUTION GRAPH                    -->
-<!-- ===================================================== -->
-
-## 📈 Contribution Activity
+<br/>
 
 <div align="center">
 
 <img
   width="95%"
-  src="https://github-readme-activity-graph.vercel.app/graph?username=SeenD4Y&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&hide_border=true"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=SeenD4Y&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true"
   alt="GitHub Contribution Graph"
 />
 
@@ -257,63 +227,30 @@ Keep learning. Keep building. Keep improving. 🚀
 ---
 
 <!-- ===================================================== -->
-<!--                      WORKFLOW                         -->
+<!--                    PROFILE SUMMARY                    -->
 <!-- ===================================================== -->
 
-## ⚡ How I Like to Work
-
-```text
-Idea
- │
- ▼
-Understand the Problem
- │
- ▼
-Design the Solution
- │
- ▼
-Build the Backend
- │
- ▼
-Connect the Frontend
- │
- ▼
-Test & Debug
- │
- ▼
-Improve the Code
- │
- ▼
-Ship 🚀
-```
-
----
-
-<!-- ===================================================== -->
-<!--                      INTERESTS                        -->
-<!-- ===================================================== -->
-
-## 🎯 Development Interests
+## 📌 Developer Profile
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Backend%20Development-0969DA?style=for-the-badge&logo=go&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST%20API-181717?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Clean%20Architecture-0969DA?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Database%20Design-181717?style=for-the-badge&logo=postgresql&logoColor=white"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/Web%20Development-0969DA?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-<img src="https://img.shields.io/badge/System%20Design-181717?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/API%20Integration-0969DA?style=for-the-badge&logo=postman&logoColor=white"/>
+| | |
+| :--- | :--- |
+| 🎓 **Education** | Software Engineering |
+| 🌱 **Currently Learning** | Full Stack Development |
+| ⚙️ **Backend** | Go & Laravel |
+| 🎨 **Frontend** | Vue.js |
+| 🗄️ **Database** | MySQL & PostgreSQL |
+| 🌐 **API** | REST API |
+| 🏗️ **Architecture** | Clean Architecture |
+| 🔧 **Tools** | Git, GitHub, VS Code, Postman & Antigravity |
 
 </div>
 
 ---
 
 <!-- ===================================================== -->
-<!--                      CONNECT                          -->
+<!--                       CONNECT                         -->
 <!-- ===================================================== -->
 
 ## 🌐 Let's Connect
@@ -365,8 +302,8 @@ Ship 🚀
 <br/>
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3500&pause=1000&color=8B949E&center=true&vCenter=true&width=680&lines=Thanks+for+visiting+my+profile!+%F0%9F%91%8B;Keep+Learning.+Keep+Building.+Keep+Growing.+%F0%9F%9A%80"
-  alt="Footer Animation"
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3500&pause=1000&color=8B949E&center=true&vCenter=true&width=680&lines=Thanks+for+visiting+my+profile!+%F0%9F%91%8B;Learning+Full+Stack+Development+one+step+at+a+time.;Keep+Learning.+Keep+Building.+Keep+Growing.+%F0%9F%9A%80"
+  alt="Footer Typing Animation"
 />
 
 <br/><br/>
