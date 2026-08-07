@@ -246,42 +246,7 @@ It gave me a better understanding of the environment where applications actually
 
 ---
 
-## `08 / small details`
-
-```yaml
-name: Sandy Aulia Ramadhan
-
-education:
-  Software Engineering
-
-currently_learning:
-  - Full Stack Development
-  - Go
-  - Laravel
-  - Vue.js
-  - MySQL
-  - PostgreSQL
-
-environment:
-  - Windows
-  - Ubuntu
-  - Xubuntu
-
-interests:
-  - Backend Development
-  - Web Development
-  - REST API
-  - Linux
-  - Software Architecture
-
-approach:
-  "learn by building"
-```
-
----
-
-
-## `09 / connect`
+## `08 / connect`
 
 <div align="center">
 
