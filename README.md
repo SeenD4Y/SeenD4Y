@@ -154,31 +154,8 @@ It gave me a better understanding of the environment where applications actually
 
 ---
 
-## `06 / learning path`
 
-<div align="center">
-
-```text
-frontend
-   ↓
-Vue.js
-   ↓
-REST API
-   ↓
-Go / Laravel
-   ↓
-MySQL / PostgreSQL
-   ↓
-Linux Environment
-```
-
-</div>
-
-I prefer learning by connecting each layer instead of treating every technology as a separate topic.
-
----
-
-## `07 / what I'm improving`
+## `06 / what I'm improving`
 
 <table>
 <tr>
@@ -243,7 +220,7 @@ I prefer learning by connecting each layer instead of treating every technology 
 
 ---
 
-## `08 / activity`
+## `07 / activity`
 
 <div align="center">
 
@@ -269,7 +246,7 @@ I prefer learning by connecting each layer instead of treating every technology 
 
 ---
 
-## `09 / small details`
+## `08 / small details`
 
 ```yaml
 name: Sandy Aulia Ramadhan
@@ -303,22 +280,8 @@ approach:
 
 ---
 
-## `10 / outside the code`
 
-Some of the things I enjoy learning are not always visible in a repository.
-
-```text
-01  setting up development environments
-02  debugging errors until I understand the cause
-03  experimenting with Linux
-04  building APIs and connecting them to the frontend
-05  learning better project structures
-06  understanding how each part of a system connects
-```
-
----
-
-## `11 / connect`
+## `09 / connect`
 
 <div align="center">
 
