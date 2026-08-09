@@ -1,56 +1,45 @@
-<!-- ===================================================== -->
-<!--               SANDY AULIA RAMADHAN                    -->
-<!--              FUTURISTIC DEV PROFILE                   -->
-<!-- ===================================================== -->
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:020617,35:0F172A,70:1D4ED8,100:06B6D4&text=SANDY%20AULIA%20RAMADHAN&fontColor=F8FAFC&fontSize=42&fontAlignY=36&animation=fadeIn&desc=SOFTWARE%20ENGINEERING%20%E2%80%A2%20FULL%20STACK%20DEVELOPMENT&descAlignY=57&descSize=15"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2300&pause=650&color=60A5FA&center=true&vCenter=true&width=900&height=45&lines=building+the+frontend.;connecting+the+backend.;designing+the+database.;debugging+the+system.;learning+how+everything+works+together." />
-
-<br/>
-
-<img src="https://img.shields.io/badge/STATUS-ACTIVE-22C55E?style=for-the-badge&labelColor=020617"/>
-<img src="https://img.shields.io/badge/FOCUS-FULL%20STACK-2563EB?style=for-the-badge&labelColor=020617"/>
-<img src="https://img.shields.io/badge/ENVIRONMENT-LINUX-7C3AED?style=for-the-badge&labelColor=020617"/>
-<img src="https://komarev.com/ghpvc/?username=SeenD4Y&label=SIGNAL&color=0891B2&style=for-the-badge"/>
-
-</div>
-
-<br/>
-
----
-
-<div align="center">
-
-### `PLAYER // PROFILE`
-
-</div>
+<img src="./assets/hero-hud.svg" width="100%" alt="Sandy Aulia Ramadhan Developer Profile"/>
 
 <br/>
 
 <img
-  align="right"
-  width="330"
-  src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=1900&pause=550&color=60A5FA&center=true&vCenter=true&width=820&height=36&lines=%5B+SYSTEM+%5D+profile+loaded;%5B+MODE+%5D+student+developer;%5B+FOCUS+%5D+full+stack+development;%5B+STATE+%5D+learning+%2F+building+%2F+exploring"
+  alt="System status"
 />
 
-### Sandy Aulia Ramadhan
-
-**Software Engineering Student** currently learning and building across the entire **Full Stack Development** flow.
-
-I enjoy understanding how each layer of an application communicates rather than learning technologies as isolated tools.
-
-My current development path moves between:
-
-**Vue.js → REST API → Go / Laravel → MySQL / PostgreSQL**
-
-Beyond application development, I also explore Linux environments, debugging, Git workflows, local development environments, and system configuration.
+</div>
 
 <br/>
 
-`Indonesia` · `Software Engineering` · `Full Stack Development`
+## `PLAYER // PROFILE`
+
+<img
+  align="right"
+  width="285"
+  src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
+  alt="Coding animation"
+/>
+
+**Sandy Aulia Ramadhan**
+
+Software Engineering Student currently learning how the pieces of a web application fit together.
+
+I spend most of my time moving between frontend, backend, databases, APIs, and the environment underneath them.
+
+Currently working with:
+
+`Go` · `Laravel` · `Vue.js` · `MySQL` · `PostgreSQL`
+
+I learn faster when I build something myself — especially when something breaks and I have to figure out why.
+
+<br/>
+
+`ROLE` Software Engineering Student  
+`FOCUS` Full Stack Development  
+`MODE` Learning by building  
+`ENV` Windows / Linux
 
 <br clear="right"/>
 
@@ -58,289 +47,194 @@ Beyond application development, I also explore Linux environments, debugging, Gi
 
 <div align="center">
 
-### `CURRENT MISSION`
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=1600&pause=400&color=22C55E&center=true&vCenter=true&width=900&height=55&lines=MISSION+01+%2F%2F+Understand+Full+Stack+Development;MISSION+02+%2F%2F+Build+Backend+with+Go;MISSION+03+%2F%2F+Explore+Laravel;MISSION+04+%2F%2F+Build+Interfaces+with+Vue.js;MISSION+05+%2F%2F+Master+Relational+Databases;MISSION+06+%2F%2F+Explore+Linux+Deeper" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/GO-BACKEND-00ADD8?style=flat-square&logo=go&logoColor=white"/>
-<img src="https://img.shields.io/badge/LARAVEL-BACKEND-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
-<img src="https://img.shields.io/badge/VUE.JS-FRONTEND-42B883?style=flat-square&logo=vuedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/MYSQL-DATA-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/POSTGRESQL-DATA-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-
-</div>
-
-<br/>
-
----
-
-<div align="center">
-
-### `ARSENAL`
-
-<sub>tools and technologies currently used in my development journey</sub>
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=go,php,laravel,vue,js,html,css,tailwind&theme=dark" />
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres,git,github,vscode,postman,linux,ubuntu&theme=dark" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/ANTIGRAVITY-AI%20DEVELOPMENT-7C3AED?style=for-the-badge&labelColor=020617"/>
-
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=1200&pause=300&color=64748B&center=true&vCenter=true&width=850&lines=go+run+.%2Fcmd%2Fserver;npm+run+dev;php+artisan+serve;git+status;testing+REST+API;checking+database;fixing+another+bug..." />
-
-</div>
-
----
-
-<div align="center">
-
-### `TECH LOADOUT`
-
-<br/>
-
-<img src="https://img.shields.io/badge/BACKEND-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white&labelColor=020617"/>
-<img src="https://img.shields.io/badge/BACKEND-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white&labelColor=020617"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/FRONTEND-Vue.js-42B883?style=for-the-badge&logo=vuedotjs&logoColor=white&labelColor=020617"/>
-<img src="https://img.shields.io/badge/STYLING-Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=020617"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/DATABASE-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=020617"/>
-<img src="https://img.shields.io/badge/DATABASE-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=020617"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/SYSTEM-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=020617"/>
-<img src="https://img.shields.io/badge/DISTRO-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white&labelColor=020617"/>
-<img src="https://img.shields.io/badge/DISTRO-Xubuntu-0044AA?style=for-the-badge&labelColor=020617"/>
-
-</div>
-
-<br/>
-
----
-
-<div align="center">
-
-### `SYSTEM PATH`
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=1700&pause=450&color=38BDF8&center=true&vCenter=true&width=900&height=50&lines=USER+%E2%86%92+VUE.JS+%E2%86%92+REST+API+%E2%86%92+BACKEND+%E2%86%92+DATABASE;VUE.JS+%E2%86%92+GO+%E2%86%92+POSTGRESQL;VUE.JS+%E2%86%92+LARAVEL+%E2%86%92+MYSQL;CODE+%E2%86%92+DEBUG+%E2%86%92+UNDERSTAND+%E2%86%92+IMPROVE" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/UI-Vue.js-42B883?style=flat-square"/>
-<img src="https://img.shields.io/badge/HTTP-REST%20API-2563EB?style=flat-square"/>
-<img src="https://img.shields.io/badge/SERVICE-Go%20%2F%20Laravel-7C3AED?style=flat-square"/>
-<img src="https://img.shields.io/badge/DATA-MySQL%20%2F%20PostgreSQL-0891B2?style=flat-square"/>
-
-</div>
-
----
-
-<div align="center">
-
-### `LINUX // SIDE QUEST`
-
-<sub>learning beyond application code</sub>
-
-</div>
-
-<br/>
-
-One of the experiences that expanded my understanding beyond web development was setting up a real **dual-boot environment**.
-
-I configured and worked with:
-
-<div align="center">
-
-<br/>
-
-<img src="https://img.shields.io/badge/WINDOWS-PRIMARY-0078D6?style=for-the-badge&logo=windows&logoColor=white&labelColor=020617"/>
-
-&nbsp;&nbsp; `+` &nbsp;&nbsp;
-
-<img src="https://img.shields.io/badge/UBUNTU-LINUX-E95420?style=for-the-badge&logo=ubuntu&logoColor=white&labelColor=020617"/>
-
-&nbsp;&nbsp; `+` &nbsp;&nbsp;
-
-<img src="https://img.shields.io/badge/XUBUNTU-LINUX-0044AA?style=for-the-badge&labelColor=020617"/>
-
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=1100&pause=300&color=F59E0B&center=true&vCenter=true&width=850&lines=detecting+storage...;creating+partition...;configuring+UEFI...;installing+Linux...;installing+GRUB...;detecting+Windows+Boot+Manager...;booting+Ubuntu...;booting+Xubuntu...;development+environment+ready." />
-
-</div>
-
-<br/>
-
-Through the process I gained hands-on experience with:
-
-`Disk Partitioning` · `Bootable USB` · `BIOS / UEFI` · `GRUB`
-
-`Linux Filesystem` · `Terminal` · `Packages` · `Environment Setup`
-
-`Dual Boot Troubleshooting` · `Development Environment`
-
-<br/>
-
-<details>
-<summary><b>View Linux experience log</b></summary>
-
-<br/>
-
-- Prepared disk partitions for a multi-OS environment
-- Created and tested bootable Linux installation media
-- Worked with BIOS and UEFI boot settings
-- Installed Ubuntu and Xubuntu
-- Configured GRUB bootloader
-- Troubleshooted boot entries and operating-system detection
-- Used Linux terminals and package managers
-- Configured Linux for development work
-
-</details>
-
----
-
-<div align="center">
-
-### `SKILL TREE`
-
-<br/>
-
-<img src="https://img.shields.io/badge/GO-Fundamentals-00ADD8?style=flat-square"/>
-<img src="https://img.shields.io/badge/GO-REST%20API-00ADD8?style=flat-square"/>
-<img src="https://img.shields.io/badge/GO-Authentication-00ADD8?style=flat-square"/>
-<img src="https://img.shields.io/badge/GO-Clean%20Architecture-00ADD8?style=flat-square"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/LARAVEL-MVC-FF2D20?style=flat-square"/>
-<img src="https://img.shields.io/badge/LARAVEL-Routing-FF2D20?style=flat-square"/>
-<img src="https://img.shields.io/badge/LARAVEL-Eloquent-FF2D20?style=flat-square"/>
-<img src="https://img.shields.io/badge/LARAVEL-Authentication-FF2D20?style=flat-square"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/VUE-Components-42B883?style=flat-square"/>
-<img src="https://img.shields.io/badge/VUE-Routing-42B883?style=flat-square"/>
-<img src="https://img.shields.io/badge/VUE-API%20Integration-42B883?style=flat-square"/>
-<img src="https://img.shields.io/badge/VUE-Responsive%20UI-42B883?style=flat-square"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/DATABASE-Schema%20Design-4169E1?style=flat-square"/>
-<img src="https://img.shields.io/badge/DATABASE-Relationships-4169E1?style=flat-square"/>
-<img src="https://img.shields.io/badge/DATABASE-Queries-4169E1?style=flat-square"/>
-<img src="https://img.shields.io/badge/DATABASE-Data%20Modeling-4169E1?style=flat-square"/>
-
-</div>
-
-<br/>
-
----
-
-<div align="center">
-
-### `ACTIVE PROCESS`
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=1000&pause=250&color=22C55E&center=true&vCenter=true&width=900&height=55&lines=%5BLOADING%5D+backend+knowledge;%5BLOADING%5D+frontend+knowledge;%5BLOADING%5D+database+knowledge;%5BLOADING%5D+Linux+knowledge;%5BDEBUG%5D+unexpected+behavior;%5BFOUND%5D+root+cause;%5BFIXED%5D+issue+resolved;%5BNEXT%5D+build+something+better." />
-
-<br/>
-
-<img src="https://img.shields.io/badge/FULL%20STACK-ACTIVE-22C55E?style=for-the-badge&labelColor=020617"/>
-<img src="https://img.shields.io/badge/BACKEND-LEARNING-2563EB?style=for-the-badge&labelColor=020617"/>
-<img src="https://img.shields.io/badge/FRONTEND-LEARNING-7C3AED?style=for-the-badge&labelColor=020617"/>
-<img src="https://img.shields.io/badge/LINUX-EXPLORING-F59E0B?style=for-the-badge&labelColor=020617"/>
-
-</div>
-
-<br/>
-
----
-
-<div align="center">
-
-### `DEVELOPMENT SIGNAL`
-
-<br/>
+### `STATUS // CURRENT RUN`
 
 <img
-  width="70%"
-  src="https://streak-stats.demolab.com?user=SeenD4Y&theme=transparent&hide_border=true&ring=3B82F6&fire=06B6D4&currStreakLabel=60A5FA&sideLabels=64748B&dates=64748B&currStreakNum=F8FAFC&sideNums=F8FAFC"
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=1500&pause=400&color=22C55E&center=true&vCenter=true&width=820&height=46&lines=GO++++++++++++learning+backend+fundamentals;VUE.JS++++++++building+frontend+interfaces;POSTGRESQL++++working+with+relational+data;REST+API+++++++connecting+frontend+and+backend;LINUX++++++++++exploring+the+environment"
+  alt="Current learning status"
 />
 
+<br/>
+
+<img src="https://img.shields.io/badge/CURRENT%20FOCUS-FULL%20STACK-3B82F6?style=for-the-badge&labelColor=020617"/>
+<img src="https://img.shields.io/badge/STATE-BUILDING-22C55E?style=for-the-badge&labelColor=020617"/>
+<img src="https://img.shields.io/badge/MODE-EXPLORING-8B5CF6?style=for-the-badge&labelColor=020617"/>
+
+</div>
+
+<br/>
+
+---
+
+## `ARSENAL // LOADOUT`
+
+<div align="center">
+
+<img src="./assets/arsenal-hud.svg" width="100%" alt="Technology Arsenal"/>
+
 <br/><br/>
 
+<img src="https://skillicons.dev/icons?i=go,php,laravel,vue,js,html,css,tailwind,mysql,postgres,git,github,vscode,postman,linux,ubuntu&theme=dark&perline=8"/>
+
+<br/><br/>
+
+<sub>
+BACKEND · FRONTEND · DATA · TOOLING · ENVIRONMENT
+</sub>
+
+</div>
+
+---
+
+## `PROGRESSION // SKILL TREE`
+
+```text
+                         FULL STACK
+                             │
+                ┌────────────┴────────────┐
+                │                         │
+             FRONTEND                   BACKEND
+                │                         │
+          ┌─────┴─────┐             ┌────┴────┐
+          │           │             │         │
+       Vue.js    JavaScript         Go     Laravel
+          │                         │         │
+          └──────── API Integration ┴─────────┘
+                             │
+                             ▼
+                         REST API
+                             │
+                             ▼
+                         DATABASE
+                        ┌────┴────┐
+                        │         │
+                     MySQL   PostgreSQL
+                             │
+                             ▼
+                         ENVIRONMENT
+                    Windows / Linux / Git
+```
+
+<div align="center">
+
 <img
-  width="100%"
-  src="https://github-readme-activity-graph.vercel.app/graph?username=SeenD4Y&bg_color=00000000&color=64748B&line=3B82F6&point=F8FAFC&area=true&area_color=172554&hide_border=true&custom_title=DEVELOPMENT%20ACTIVITY"
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=1800&pause=500&color=38BDF8&center=true&vCenter=true&width=760&height=34&lines=frontend+%E2%86%92+api+%E2%86%92+backend+%E2%86%92+database;learning+how+the+pieces+fit+together"
+  alt="Progression animation"
 />
 
 </div>
 
 ---
 
+## `QUEST // CURRENT`
+
 <div align="center">
 
-### `NETWORK`
+<img
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=1550&pause=500&color=CBD5E1&center=true&vCenter=true&width=820&height=44&lines=01+%2F%2F+understanding+REST+APIs;02+%2F%2F+improving+Go+fundamentals;03+%2F%2F+building+better+Vue+components;04+%2F%2F+learning+database+design;05+%2F%2F+exploring+Linux;06+%2F%2F+improving+my+development+workflow"
+  alt="Current quests"
+/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=1200&pause=350&color=94A3B8&center=true&vCenter=true&width=800&lines=scanning+network...;portfolio+detected.;linkedin+detected.;github+detected.;connection+available." />
+</div>
 
 <br/>
+
+`01` Understanding how REST APIs are structured  
+`02` Getting more comfortable with Go  
+`03` Building cleaner Vue components  
+`04` Learning relational database design  
+`05` Exploring Linux outside the browser  
+`06` Improving Git and local development workflows
+
+---
+
+## `SIDE QUEST // LINUX`
+
+<div align="center">
+
+<img src="./assets/linux-sidequest.svg" width="100%" alt="Linux Dual Boot Side Quest"/>
+
+</div>
+
+I have set up and worked with a dual-boot environment involving **Windows, Ubuntu, and Xubuntu**.
+
+That process gave me hands-on experience with:
+
+`Partitioning` · `BIOS / UEFI` · `GRUB` · `Linux filesystem`
+
+`Terminal` · `Package management` · `Development environment setup`
+
+It helped me understand more of what happens outside the application code itself.
+
+---
+
+## `DEV LOG // ACTIVITY`
+
+<div align="center">
+
+<img
+  width="72%"
+  src="https://streak-stats.demolab.com?user=SeenD4Y&theme=transparent&hide_border=true&background=00000000&ring=3B82F6&fire=38BDF8&currStreakLabel=60A5FA&sideLabels=64748B&dates=64748B&currStreakNum=F8FAFC&sideNums=F8FAFC"
+  alt="GitHub activity"
+/>
+
+<br/><br/>
+
+<img
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=1200&pause=300&color=64748B&center=true&vCenter=true&width=760&height=36&lines=git+status;reading+the+error;finding+the+cause;fixing+the+issue;commit+ready"
+  alt="Development log"
+/>
+
+</div>
+
+---
+
+## `NETWORK // CONNECT`
+
+<div align="center">
 
 <a href="https://sandy-portfolio-qkknzhpb5-seend4ys-projects.vercel.app/">
-<img src="https://img.shields.io/badge/PORTFOLIO-ENTER-020617?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/%5B%20PORTFOLIO%20%5D-020617?style=for-the-badge&logo=vercel&logoColor=F8FAFC"/>
 </a>
 
 <a href="https://www.linkedin.com/in/sandy-aulia-ramadhan-2ab2a540a/">
-<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://www.instagram.com/sandyramadhann_/">
-<img src="https://img.shields.io/badge/INSTAGRAM-FOLLOW-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/%5B%20LINKEDIN%20%5D-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/SeenD4Y">
-<img src="https://img.shields.io/badge/GITHUB-SeenD4Y-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/%5B%20GITHUB%20%5D-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</div>
+<a href="https://www.instagram.com/sandyramadhann_/">
+<img src="https://img.shields.io/badge/%5B%20INSTAGRAM%20%5D-831843?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
 
-<br/>
+<br/><br/>
+
+<img
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=1500&pause=450&color=38BDF8&center=true&vCenter=true&width=700&height=36&lines=network+available.;connection+channels+ready."
+  alt="Network status"
+/>
+
+</div>
 
 ---
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=1600&pause=400&color=64748B&center=true&vCenter=true&width=850&lines=another+error+understood.;another+bug+fixed.;another+concept+connected.;another+system+built.;still+learning.;still+building." />
-
-<br/><br/>
-
-### `LEARN. BUILD. BREAK. UNDERSTAND. REPEAT.`
-
-<br/>
-
-> I'm not aiming to know everything — I'm aiming to learn something new every day.
+<img
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=1350&pause=350&color=64748B&center=true&vCenter=true&width=820&height=48&lines=%3E+system+status%3A+learning;%3E+system+status%3A+building;%3E+system+status%3A+improving;%3E+next+run+ready."
+  alt="Final terminal"
+/>
 
 <br/>
 
-<sub>SANDY AULIA RAMADHAN · SOFTWARE ENGINEERING</sub>
+### `LEARN // BUILD // BREAK // UNDERSTAND // REPEAT`
+
+<sub>SANDY AULIA RAMADHAN · SOFTWARE ENGINEERING STUDENT</sub>
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:020617,35:0F172A,70:1D4ED8,100:06B6D4"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:020617,45:172554,75:1D4ED8,100:0891B2" width="100%"/>
 
 </div>
