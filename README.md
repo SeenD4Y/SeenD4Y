@@ -4,11 +4,6 @@
 
 <br/>
 
-<img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=1900&pause=550&color=60A5FA&center=true&vCenter=true&width=820&height=36&lines=%5B+SYSTEM+%5D+profile+loaded;%5B+MODE+%5D+student+developer;%5B+FOCUS+%5D+full+stack+development;%5B+STATE+%5D+learning+%2F+building+%2F+exploring"
-  alt="System status"
-/>
-
 </div>
 
 <br/>
@@ -88,68 +83,6 @@ BACKEND · FRONTEND · DATA · TOOLING · ENVIRONMENT
 
 ---
 
-## `PROGRESSION // SKILL TREE`
-
-```text
-                         FULL STACK
-                             │
-                ┌────────────┴────────────┐
-                │                         │
-             FRONTEND                   BACKEND
-                │                         │
-          ┌─────┴─────┐             ┌────┴────┐
-          │           │             │         │
-       Vue.js    JavaScript         Go     Laravel
-          │                         │         │
-          └──────── API Integration ┴─────────┘
-                             │
-                             ▼
-                         REST API
-                             │
-                             ▼
-                         DATABASE
-                        ┌────┴────┐
-                        │         │
-                     MySQL   PostgreSQL
-                             │
-                             ▼
-                         ENVIRONMENT
-                    Windows / Linux / Git
-```
-
-<div align="center">
-
-<img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=1800&pause=500&color=38BDF8&center=true&vCenter=true&width=760&height=34&lines=frontend+%E2%86%92+api+%E2%86%92+backend+%E2%86%92+database;learning+how+the+pieces+fit+together"
-  alt="Progression animation"
-/>
-
-</div>
-
----
-
-## `QUEST // CURRENT`
-
-<div align="center">
-
-<img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=1550&pause=500&color=CBD5E1&center=true&vCenter=true&width=820&height=44&lines=01+%2F%2F+understanding+REST+APIs;02+%2F%2F+improving+Go+fundamentals;03+%2F%2F+building+better+Vue+components;04+%2F%2F+learning+database+design;05+%2F%2F+exploring+Linux;06+%2F%2F+improving+my+development+workflow"
-  alt="Current quests"
-/>
-
-</div>
-
-<br/>
-
-`01` Understanding how REST APIs are structured  
-`02` Getting more comfortable with Go  
-`03` Building cleaner Vue components  
-`04` Learning relational database design  
-`05` Exploring Linux outside the browser  
-`06` Improving Git and local development workflows
-
----
-
 ## `SIDE QUEST // LINUX`
 
 <div align="center">
@@ -213,10 +146,6 @@ It helped me understand more of what happens outside the application code itself
 
 <br/><br/>
 
-<img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=1500&pause=450&color=38BDF8&center=true&vCenter=true&width=700&height=36&lines=network+available.;connection+channels+ready."
-  alt="Network status"
-/>
 
 </div>
 
@@ -224,10 +153,6 @@ It helped me understand more of what happens outside the application code itself
 
 <div align="center">
 
-<img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=1350&pause=350&color=64748B&center=true&vCenter=true&width=820&height=48&lines=%3E+system+status%3A+learning;%3E+system+status%3A+building;%3E+system+status%3A+improving;%3E+next+run+ready."
-  alt="Final terminal"
-/>
 
 <br/>
 
