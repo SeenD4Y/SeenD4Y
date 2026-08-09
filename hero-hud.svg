@@ -1,0 +1,165 @@
+<svg width="1200" height="390" viewBox="0 0 1200 390"
+     xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1">
+      <stop offset="0" stop-color="#020617"/>
+      <stop offset=".5" stop-color="#071225"/>
+      <stop offset="1" stop-color="#020617"/>
+    </linearGradient>
+
+    <linearGradient id="edge" x1="0" x2="1">
+      <stop stop-color="#3B82F6"/>
+      <stop offset=".5" stop-color="#38BDF8"/>
+      <stop offset="1" stop-color="#8B5CF6"/>
+    </linearGradient>
+
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <filter id="softGlow">
+      <feGaussianBlur stdDeviation="2"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="390" rx="24" fill="url(#bg)"/>
+
+  <rect x="20" y="20" width="1160" height="350" rx="18"
+        fill="none" stroke="#1E293B" stroke-width="1"/>
+
+  <rect x="21" y="21" width="1158" height="348" rx="18"
+        fill="none" stroke="url(#edge)" stroke-width="1"
+        opacity=".45">
+    <animate attributeName="opacity"
+             values=".18;.7;.18"
+             dur="5s"
+             repeatCount="indefinite"/>
+  </rect>
+
+  <!-- HUD corners -->
+
+  <path d="M45 78 V48 H110"
+        fill="none" stroke="#38BDF8" stroke-width="3"
+        filter="url(#glow)">
+    <animate attributeName="stroke-opacity"
+             values=".35;1;.35"
+             dur="3s"
+             repeatCount="indefinite"/>
+  </path>
+
+  <path d="M1090 48 H1155 V78"
+        fill="none" stroke="#8B5CF6" stroke-width="3"
+        filter="url(#glow)">
+    <animate attributeName="stroke-opacity"
+             values="1;.35;1"
+             dur="3.5s"
+             repeatCount="indefinite"/>
+  </path>
+
+  <path d="M45 312 V342 H110"
+        fill="none" stroke="#8B5CF6" stroke-width="3"/>
+
+  <path d="M1090 342 H1155 V312"
+        fill="none" stroke="#38BDF8" stroke-width="3"/>
+
+  <!-- top labels -->
+
+  <text x="60" y="76"
+        fill="#64748B"
+        font-family="JetBrains Mono, monospace"
+        font-size="13"
+        letter-spacing="3">
+    PROFILE_ID // SEEND4Y
+  </text>
+
+  <circle cx="1066" cy="70" r="5" fill="#22C55E">
+    <animate attributeName="opacity"
+             values="1;.25;1"
+             dur="1.8s"
+             repeatCount="indefinite"/>
+  </circle>
+
+  <text x="1080" y="75"
+        fill="#22C55E"
+        font-family="JetBrains Mono, monospace"
+        font-size="12">
+    ONLINE
+  </text>
+
+  <!-- title -->
+
+  <text x="600" y="173"
+        text-anchor="middle"
+        fill="#F8FAFC"
+        font-family="JetBrains Mono, monospace"
+        font-size="47"
+        font-weight="700"
+        letter-spacing="7"
+        filter="url(#glow)">
+    SANDY AULIA RAMADHAN
+  </text>
+
+  <text x="600" y="217"
+        text-anchor="middle"
+        fill="#60A5FA"
+        font-family="JetBrains Mono, monospace"
+        font-size="15"
+        letter-spacing="5">
+    SOFTWARE ENGINEERING STUDENT
+  </text>
+
+  <text x="600" y="252"
+        text-anchor="middle"
+        fill="#64748B"
+        font-family="JetBrains Mono, monospace"
+        font-size="13"
+        letter-spacing="3">
+    FULL STACK DEVELOPMENT // LEARNING BY BUILDING
+  </text>
+
+  <!-- center pulse -->
+
+  <line x1="350" y1="287" x2="850" y2="287"
+        stroke="#1E293B"
+        stroke-width="1"/>
+
+  <line x1="350" y1="287" x2="520" y2="287"
+        stroke="#3B82F6"
+        stroke-width="2">
+    <animate attributeName="x2"
+             values="350;850;350"
+             dur="4.2s"
+             repeatCount="indefinite"/>
+    <animate attributeName="opacity"
+             values=".2;1;.2"
+             dur="4.2s"
+             repeatCount="indefinite"/>
+  </line>
+
+  <text x="600" y="322"
+        text-anchor="middle"
+        fill="#CBD5E1"
+        font-family="JetBrains Mono, monospace"
+        font-size="12"
+        letter-spacing="2">
+    SYSTEM ONLINE  /  PROFILE LOADED  /  DEVELOPER MODE ACTIVE
+  </text>
+
+  <!-- scanline -->
+
+  <rect x="30" y="35" width="1140" height="2"
+        fill="#38BDF8"
+        opacity=".12">
+    <animate attributeName="y"
+             from="35"
+             to="350"
+             dur="6s"
+             repeatCount="indefinite"/>
+  </rect>
+
+</svg>
