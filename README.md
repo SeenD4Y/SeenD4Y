@@ -1,35 +1,26 @@
 <!-- ========================================================= -->
-<!--                       SANDY / README                       -->
+<!--                 SANDY AULIA RAMADHAN                      -->
+<!--              github.com/SeenD4Y / README                  -->
 <!-- ========================================================= -->
 
 <div align="center">
 
-# Sandy Aulia Ramadhan
-
-### Software Engineering Student · Learning Full Stack Development
+<img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=venom&height=180&color=0:020617,45:0F172A,100:2563EB&text=SANDY%20AULIA%20RAMADHAN&fontSize=42&fontColor=F8FAFC&fontAlignY=42&animation=fadeIn&stroke=3B82F6&strokeWidth=1&desc=FULL%20STACK%20DEVELOPMENT%20%C2%B7%20SOFTWARE%20ENGINEERING&descAlignY=64&descSize=14"
+/>
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=760&lines=building+web+applications+from+front+to+back.;learning+Go%2C+Laravel%2C+Vue.js+and+databases.;exploring+Linux%2C+development+tools+and+system+setup.;learning+by+building%2C+breaking+and+fixing+things."
-  alt="Typing animation"
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2400&pause=650&color=60A5FA&center=true&vCenter=true&repeat=true&width=850&height=45&lines=%24+whoami+%E2%86%92+Sandy+Aulia+Ramadhan;%24+focus+%E2%86%92+Full+Stack+Development;%24+backend+%E2%86%92+Go+%2F+Laravel;%24+frontend+%E2%86%92+Vue.js+%2F+JavaScript;%24+database+%E2%86%92+MySQL+%2F+PostgreSQL;%24+status+%E2%86%92+still+learning...+still+building..."
+  alt="Animated Terminal"
 />
 
 <br/>
 
-<sub>
-Indonesia 🇮🇩 · Full Stack Development · Backend · Web Engineering
-</sub>
-
-<br/><br/>
-
-<a href="https://github.com/SeenD4Y">
-  <img src="https://img.shields.io/badge/GitHub-SeenD4Y-181717?style=flat-square&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/sandy-aulia-ramadhan-2ab2a540a/">
-  <img src="https://img.shields.io/badge/LinkedIn-Sandy_Aulia_Ramadhan-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=SeenD4Y&label=views&color=58A6FF&style=flat-square"/>
+<img src="https://img.shields.io/badge/STATUS-LEARNING-22C55E?style=flat-square"/>
+<img src="https://img.shields.io/badge/FOCUS-FULL%20STACK-2563EB?style=flat-square"/>
+<img src="https://img.shields.io/badge/ENV-LINUX-111827?style=flat-square&logo=linux"/>
+<img src="https://komarev.com/ghpvc/?username=SeenD4Y&label=VISITORS&color=2563EB&style=flat-square"/>
 
 </div>
 
@@ -37,182 +28,56 @@ Indonesia 🇮🇩 · Full Stack Development · Backend · Web Engineering
 
 ---
 
-## `01 / profile`
-
-<img
-  align="right"
-  width="280"
-  src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
-  alt="Coding animation"
-/>
-
-I'm **Sandy Aulia Ramadhan**, a Software Engineering student currently exploring the full process of building web applications.
-
-My main focus is **Full Stack Development** — understanding how the frontend, backend, database, API, and development environment connect as one system.
-
-At the moment, I spend most of my learning time working with:
-
-`Go` · `Laravel` · `Vue.js` · `MySQL` · `PostgreSQL`
-
-I also like learning things outside the application layer, especially Linux environments, local development setup, debugging, Git workflows, and understanding how software behaves on different systems.
-
-<br clear="both"/>
-
----
-
-## `02 / currently`
-
-```txt
-ROLE        Software Engineering Student
-FOCUS       Full Stack Development
-
-BACKEND     Go / Laravel
-FRONTEND    Vue.js / JavaScript / Tailwind CSS
-
-DATABASE    MySQL / PostgreSQL
-
-EXPLORING   REST API
-            Authentication
-            Clean Architecture
-            Linux
-            Git Workflow
-```
-
----
-
-## `03 / stack`
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=go,php,laravel,vue,js,html,css,tailwind&theme=dark" />
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres,git,github,vscode,postman,linux,ubuntu&theme=dark" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<sub>
-Go · PHP · Laravel · Vue.js · JavaScript · HTML · CSS · Tailwind · MySQL · PostgreSQL · Git · GitHub · Linux
-</sub>
-
-</div>
-
----
-
-## `04 / tools`
-
-Instead of collecting tools just for the sake of listing them, these are the ones I actually use while learning and building projects.
-
-| Area | Tools |
-|---|---|
-| Code Editor | VS Code |
-| AI-assisted Development | Antigravity |
-| API Testing | Postman |
-| Version Control | Git & GitHub |
-| Backend | Go & Laravel |
-| Frontend | Vue.js |
-| Database | MySQL & PostgreSQL |
-| Environment | Windows & Linux |
-| Linux Distribution | Ubuntu & Xubuntu |
-
----
-
-## `05 / linux`
-
-### 🐧 Learning beyond the browser
-
-One of the technical experiences I enjoyed was setting up a **dual-boot environment** and working directly with Linux.
-
-I have experience installing and configuring:
-
-```text
-Windows
-   │
-   ├── Ubuntu
-   │
-   └── Xubuntu
-```
-
-During that process, I learned more about:
-
-- Disk partitioning
-- Bootable USB installation
-- BIOS / UEFI boot configuration
-- GRUB bootloader
-- Linux filesystem structure
-- Package installation
-- Terminal usage
-- Development environment setup
-- Troubleshooting boot and system configuration issues
-
-It gave me a better understanding of the environment where applications actually run — not only the code inside them.
-
----
-
-
-## `06 / what I'm improving`
+# `01 // identity`
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="58%" valign="top">
 
-### Backend
+### `> sandy.profile`
 
-- Go fundamentals
-- Laravel development
-- REST API design
-- Authentication
-- Role-based access
-- Clean Architecture
-- Error handling
+I'm **Sandy Aulia Ramadhan**, a Software Engineering student currently learning how modern web applications are designed, built, connected, and maintained.
 
-</td>
+My current direction is **Full Stack Development**.
 
-<td width="50%" valign="top">
+Rather than learning frontend and backend as completely separate worlds, I enjoy understanding how the entire system connects:
 
-### Frontend
+```text
+Interface
+    ↓
+Frontend
+    ↓
+REST API
+    ↓
+Backend
+    ↓
+Database
+    ↓
+Operating System
+```
 
-- Vue.js
-- Component structure
-- State handling
-- API integration
-- Responsive UI
-- Tailwind CSS
-- User experience
+My current stack revolves around:
 
-</td>
-</tr>
+```text
+Go  •  Laravel  •  Vue.js
+MySQL  •  PostgreSQL
+```
 
-<tr>
-<td width="50%" valign="top">
-
-### Database
-
-- MySQL
-- PostgreSQL
-- Relational design
-- Table relationships
-- Query writing
-- Data modelling
+I also enjoy exploring the environment behind the application itself — Linux, local development environments, Git workflows, debugging, and system configuration.
 
 </td>
 
-<td width="50%" valign="top">
+<td width="42%" align="center" valign="middle">
 
-### Environment
+<img
+  width="90%"
+  src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
+  alt="Programming Animation"
+/>
 
-- Linux
-- Ubuntu
-- Xubuntu
-- Dual boot
-- Git workflow
-- Local development setup
-- Debugging
+<br/>
+
+<sub>`building / breaking / debugging / learning`</sub>
 
 </td>
 </tr>
@@ -220,14 +85,418 @@ It gave me a better understanding of the environment where applications actually
 
 ---
 
-## `07 / activity`
+# `02 // current_process`
+
+<div align="center">
+
+```text
+┌───────────────────────────────────────────────────────────────┐
+│  SANDY.DEV                                         ● ONLINE  │
+├───────────────────────────────────────────────────────────────┤
+│                                                               │
+│  ROLE        Software Engineering Student                     │
+│  MODE        Learning Full Stack Development                  │
+│                                                               │
+│  BACKEND     Go · Laravel                                     │
+│  FRONTEND    Vue.js · JavaScript · Tailwind CSS               │
+│  DATABASE    MySQL · PostgreSQL                               │
+│                                                               │
+│  SYSTEM      Windows · Ubuntu · Xubuntu                       │
+│  TOOLS       Git · GitHub · Postman · Antigravity · VS Code  │
+│                                                               │
+│  STATUS      ████████████████░░░░  continuously improving    │
+│                                                               │
+└───────────────────────────────────────────────────────────────┘
+```
+
+</div>
 
 <div align="center">
 
 <img
-  width="75%"
-  src="https://streak-stats.demolab.com?user=SeenD4Y&theme=github-dark-blue&hide_border=true&background=0D1117"
-  alt="GitHub streak"
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=1800&pause=500&color=94A3B8&center=true&vCenter=true&width=800&lines=loading+backend+knowledge...;connecting+frontend+%E2%86%94+backend...;querying+database...;debugging+unexpected+behavior...;learning+from+the+error...;rebuilding+better..."
+  alt="Process Animation"
+/>
+
+</div>
+
+---
+
+# `03 // arsenal`
+
+<div align="center">
+
+### `LANGUAGES + CORE`
+
+<img
+  src="https://skillicons.dev/icons?i=go,php,js,html,css&theme=dark"
+  alt="Languages"
+/>
+
+<br/><br/>
+
+### `FRAMEWORKS + UI`
+
+<img
+  src="https://skillicons.dev/icons?i=laravel,vue,tailwind&theme=dark"
+  alt="Frameworks"
+/>
+
+<br/><br/>
+
+### `DATA LAYER`
+
+<img
+  src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark"
+  alt="Database"
+/>
+
+<br/><br/>
+
+### `DEVELOPMENT ENVIRONMENT`
+
+<img
+  src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,ubuntu&theme=dark"
+  alt="Development Tools"
+/>
+
+<br/><br/>
+
+<img
+  src="https://img.shields.io/badge/Antigravity-AI%20Development-7C3AED?style=for-the-badge"
+  alt="Antigravity"
+/>
+
+</div>
+
+---
+
+# `04 // toolchain`
+
+<table>
+<tr>
+
+<td width="33%" valign="top">
+
+### `01. build`
+
+```yaml
+backend:
+  - Go
+  - Laravel
+
+frontend:
+  - Vue.js
+  - JavaScript
+  - Tailwind CSS
+```
+
+</td>
+
+<td width="33%" valign="top">
+
+### `02. data`
+
+```yaml
+database:
+  - MySQL
+  - PostgreSQL
+
+api:
+  - REST
+  - JSON
+```
+
+</td>
+
+<td width="33%" valign="top">
+
+### `03. ship`
+
+```yaml
+workflow:
+  - Git
+  - GitHub
+  - Postman
+
+editor:
+  - VS Code
+  - Antigravity
+```
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# `05 // linux_experience`
+
+<table>
+<tr>
+<td width="55%" valign="top">
+
+### 🐧 `learning beyond localhost`
+
+One of the technical experiences that taught me more about computers beyond application code was building my own **dual-boot environment**.
+
+I have installed and configured:
+
+```text
+                         MACHINE
+                            │
+                    ┌───────┴───────┐
+                    │               │
+                 Windows           Linux
+                                    │
+                              ┌─────┴─────┐
+                              │           │
+                           Ubuntu       Xubuntu
+```
+
+This process introduced me to parts of a computer system that are usually hidden when development stays entirely inside an IDE.
+
+</td>
+
+<td width="45%" valign="top">
+
+### `SYSTEM.LOG`
+
+```text
+[ OK ] Disk partitioning
+[ OK ] Bootable USB creation
+[ OK ] BIOS / UEFI setup
+[ OK ] Linux installation
+[ OK ] GRUB configuration
+[ OK ] Ubuntu environment
+[ OK ] Xubuntu environment
+[ OK ] Package management
+[ OK ] Terminal workflow
+[ OK ] Development setup
+[ OK ] Boot troubleshooting
+```
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<img
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=2000&pause=650&color=F59E0B&center=true&vCenter=true&width=800&lines=booting+Linux...;loading+GRUB...;mounting+development+environment...;opening+terminal...;sudo+apt+update...;environment+ready+%E2%9C%93"
+  alt="Linux Animation"
+/>
+
+</div>
+
+---
+
+# `06 // skill_tree`
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### ⚙️ `BACKEND`
+
+```text
+Go
+├── Fundamentals
+├── REST API
+├── Authentication
+├── Error Handling
+└── Clean Architecture
+
+Laravel
+├── MVC
+├── REST API
+├── Authentication
+├── Database
+└── Application Structure
+```
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🖥️ `FRONTEND`
+
+```text
+Vue.js
+├── Components
+├── Routing
+├── State Handling
+├── API Integration
+├── Responsive UI
+└── User Experience
+
+Tailwind CSS
+└── Interface Styling
+```
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🗄️ `DATABASE`
+
+```text
+MySQL
+PostgreSQL
+│
+├── Relational Design
+├── Table Relationships
+├── Query Writing
+├── Data Modelling
+└── Application Integration
+```
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🐧 `ENVIRONMENT`
+
+```text
+Linux
+├── Ubuntu
+├── Xubuntu
+├── Terminal
+├── Package Management
+└── Dual Boot
+
+Development
+├── Git Workflow
+├── Local Environment
+└── Debugging
+```
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# `07 // architecture`
+
+<div align="center">
+
+```text
+                        USER
+                          │
+                          ▼
+                 ┌─────────────────┐
+                 │      Vue.js     │
+                 │    Frontend     │
+                 └────────┬────────┘
+                          │
+                     HTTP / JSON
+                          │
+                          ▼
+                 ┌─────────────────┐
+                 │    REST API     │
+                 └────────┬────────┘
+                          │
+                   ┌──────┴──────┐
+                   │             │
+                   ▼             ▼
+             ┌──────────┐   ┌──────────┐
+             │    Go    │   │ Laravel  │
+             └────┬─────┘   └────┬─────┘
+                  │              │
+                  └───────┬──────┘
+                          │
+                          ▼
+              ┌───────────────────────┐
+              │ MySQL  /  PostgreSQL │
+              └───────────┬───────────┘
+                          │
+                          ▼
+              ┌───────────────────────┐
+              │ Linux / Local System │
+              └───────────────────────┘
+```
+
+<sub>learning the connection between every layer, not only the syntax.</sub>
+
+</div>
+
+---
+
+# `08 // development_status`
+
+<div align="center">
+
+<img
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=1300&pause=400&color=22C55E&center=true&vCenter=true&width=850&lines=%5B+BUILDING+%5D+Full+Stack+Development;%5B+LEARNING+%5D+Go+Backend;%5B+LEARNING+%5D+Laravel;%5B+LEARNING+%5D+Vue.js;%5B+EXPLORING+%5D+Clean+Architecture;%5B+EXPLORING+%5D+Linux;%5B+DEBUGGING+%5D+probably+something..."
+  alt="Development Status"
+/>
+
+</div>
+
+<table>
+<tr>
+
+<td align="center" width="25%">
+
+### `BACKEND`
+
+`███████░░░`
+
+Learning
+
+</td>
+
+<td align="center" width="25%">
+
+### `FRONTEND`
+
+`██████░░░░`
+
+Learning
+
+</td>
+
+<td align="center" width="25%">
+
+### `DATABASE`
+
+`██████░░░░`
+
+Learning
+
+</td>
+
+<td align="center" width="25%">
+
+### `LINUX`
+
+`██████░░░░`
+
+Exploring
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# `09 // github_activity`
+
+<div align="center">
+
+<img
+  width="68%"
+  src="https://streak-stats.demolab.com?user=SeenD4Y&theme=transparent&hide_border=true&ring=3B82F6&fire=F59E0B&currStreakLabel=60A5FA&sideLabels=94A3B8&dates=64748B&currStreakNum=F8FAFC&sideNums=F8FAFC"
+  alt="GitHub Streak"
 />
 
 </div>
@@ -238,58 +507,96 @@ It gave me a better understanding of the environment where applications actually
 
 <img
   width="100%"
-  src="https://github-readme-activity-graph.vercel.app/graph?username=SeenD4Y&bg_color=0D1117&color=8B949E&line=58A6FF&point=FFFFFF&area=true&hide_border=true"
-  alt="Contribution activity"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=SeenD4Y&bg_color=00000000&color=94A3B8&line=3B82F6&point=F8FAFC&area=true&area_color=2563EB&hide_border=true&custom_title=CONTRIBUTION%20SIGNAL"
+  alt="Contribution Activity"
 />
 
 </div>
 
 ---
 
-## `08 / connect`
+# `10 // philosophy`
 
 <div align="center">
 
+```text
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│     I don't want to memorize every technology.              │
+│                                                             │
+│     I want to understand why things work,                   │
+│     what breaks them,                                       │
+│     and how to build them better next time.                 │
+│                                                             │
+│                                      — Sandy                │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+---
+
+# `11 // connect`
+
+<div align="center">
+
+### `find me elsewhere`
+
+<br/>
+
 <a href="https://sandy-portfolio-qkknzhpb5-seend4ys-projects.vercel.app/">
-  <img
-    src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white"
-    alt="Portfolio"
-  />
+<img
+  src="https://img.shields.io/badge/PORTFOLIO-ENTER-020617?style=for-the-badge&logo=vercel&logoColor=white"
+  alt="Portfolio"
+/>
 </a>
 
 <a href="https://www.linkedin.com/in/sandy-aulia-ramadhan-2ab2a540a/">
-  <img
-    src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-    alt="LinkedIn"
-  />
+<img
+  src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+  alt="LinkedIn"
+/>
 </a>
 
 <a href="https://www.instagram.com/sandyramadhann_/">
-  <img
-    src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-    alt="Instagram"
-  />
+<img
+  src="https://img.shields.io/badge/INSTAGRAM-FOLLOW-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+  alt="Instagram"
+/>
+</a>
+
+<a href="https://github.com/SeenD4Y">
+<img
+  src="https://img.shields.io/badge/GITHUB-FOLLOW-181717?style=for-the-badge&logo=github&logoColor=white"
+  alt="GitHub"
+/>
 </a>
 
 </div>
+
+<br/>
 
 ---
 
 <div align="center">
 
-<br/>
-
 <img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3200&pause=1000&color=8B949E&center=true&vCenter=true&width=700&lines=still+learning.;still+building.;still+improving."
-  alt="Footer animation"
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2200&pause=600&color=64748B&center=true&vCenter=true&width=850&lines=%3E+another+bug+fixed.;%3E+another+concept+understood.;%3E+another+project+started.;%3E+still+learning.;%3E+still+building.;%3E+still+improving."
+  alt="Footer Animation"
 />
 
 <br/>
 
-> **"I'm not aiming to know everything — I'm aiming to learn something new every day."**
+### `"I'm not aiming to know everything — I'm aiming to learn something new every day."`
 
-<br/>
+<sub>EOF · thanks for stopping by.</sub>
 
-<sub>thanks for stopping by.</sub>
+<br/><br/>
+
+<img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:020617,50:0F172A,100:2563EB&section=footer"
+/>
 
 </div>
