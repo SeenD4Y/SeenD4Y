@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/hero-hud.svg" width="100%" alt="Sandy Aulia Ramadhan Developer Profile"/>
+<img src="./hero-hud.svg" width="100%" alt="Sandy Aulia Ramadhan Developer Profile"/>
 
 <br/>
 
@@ -12,6 +12,8 @@
 </div>
 
 <br/>
+
+---
 
 ## `PLAYER // PROFILE`
 
@@ -70,7 +72,7 @@ I learn faster when I build something myself — especially when something break
 
 <div align="center">
 
-<img src="./assets/arsenal-hud.svg" width="100%" alt="Technology Arsenal"/>
+<img src="./arsenal-hud.svg" width="100%" alt="Technology Arsenal"/>
 
 <br/><br/>
 
@@ -152,7 +154,7 @@ BACKEND · FRONTEND · DATA · TOOLING · ENVIRONMENT
 
 <div align="center">
 
-<img src="./assets/linux-sidequest.svg" width="100%" alt="Linux Dual Boot Side Quest"/>
+<img src="./linux-sidequest.svg" width="100%" alt="Linux Dual Boot Side Quest"/>
 
 </div>
 
