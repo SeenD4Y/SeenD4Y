@@ -1,0 +1,165 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320"
+     xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+    <linearGradient id="panel" x1="0" x2="1">
+      <stop stop-color="#020617"/>
+      <stop offset=".5" stop-color="#081426"/>
+      <stop offset="1" stop-color="#020617"/>
+    </linearGradient>
+
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="320" rx="22" fill="url(#panel)"/>
+
+  <rect x="18" y="18" width="1164" height="284" rx="16"
+        fill="none"
+        stroke="#1E293B"/>
+
+  <text x="70" y="70"
+        fill="#38BDF8"
+        font-size="15"
+        font-family="JetBrains Mono, monospace"
+        letter-spacing="5">
+    ARSENAL // TECHNOLOGIES
+  </text>
+
+  <circle cx="1100" cy="65" r="4" fill="#22C55E">
+    <animate attributeName="r"
+             values="3;6;3"
+             dur="2s"
+             repeatCount="indefinite"/>
+  </circle>
+
+  <!-- backend -->
+
+  <text x="95" y="130"
+        fill="#64748B"
+        font-size="12"
+        font-family="JetBrains Mono, monospace"
+        letter-spacing="3">
+    BACKEND
+  </text>
+
+  <rect x="90" y="150" width="110" height="42" rx="8"
+        fill="#071426" stroke="#38BDF8"/>
+  <text x="145" y="176"
+        text-anchor="middle"
+        fill="#F8FAFC"
+        font-family="JetBrains Mono"
+        font-size="13">
+    GO
+  </text>
+
+  <rect x="215" y="150" width="130" height="42" rx="8"
+        fill="#071426" stroke="#3B82F6"/>
+  <text x="280" y="176"
+        text-anchor="middle"
+        fill="#F8FAFC"
+        font-family="JetBrains Mono"
+        font-size="13">
+    LARAVEL
+  </text>
+
+  <rect x="360" y="150" width="100" height="42" rx="8"
+        fill="#071426" stroke="#64748B"/>
+  <text x="410" y="176"
+        text-anchor="middle"
+        fill="#F8FAFC"
+        font-family="JetBrains Mono"
+        font-size="13">
+    PHP
+  </text>
+
+  <!-- frontend -->
+
+  <text x="535" y="130"
+        fill="#64748B"
+        font-size="12"
+        font-family="JetBrains Mono"
+        letter-spacing="3">
+    FRONTEND
+  </text>
+
+  <rect x="530" y="150" width="120" height="42" rx="8"
+        fill="#071426" stroke="#22C55E"/>
+  <text x="590" y="176"
+        text-anchor="middle"
+        fill="#F8FAFC"
+        font-family="JetBrains Mono"
+        font-size="13">
+    VUE.JS
+  </text>
+
+  <rect x="665" y="150" width="150" height="42" rx="8"
+        fill="#071426" stroke="#FACC15"/>
+  <text x="740" y="176"
+        text-anchor="middle"
+        fill="#F8FAFC"
+        font-family="JetBrains Mono"
+        font-size="13">
+    JAVASCRIPT
+  </text>
+
+  <!-- data -->
+
+  <text x="885" y="130"
+        fill="#64748B"
+        font-size="12"
+        font-family="JetBrains Mono"
+        letter-spacing="3">
+    DATABASE
+  </text>
+
+  <rect x="880" y="150" width="110" height="42" rx="8"
+        fill="#071426" stroke="#06B6D4"/>
+  <text x="935" y="176"
+        text-anchor="middle"
+        fill="#F8FAFC"
+        font-family="JetBrains Mono"
+        font-size="13">
+    MYSQL
+  </text>
+
+  <rect x="1005" y="150" width="140" height="42" rx="8"
+        fill="#071426" stroke="#8B5CF6"/>
+  <text x="1075" y="176"
+        text-anchor="middle"
+        fill="#F8FAFC"
+        font-family="JetBrains Mono"
+        font-size="13">
+    POSTGRESQL
+  </text>
+
+  <!-- motion line -->
+
+  <line x1="90" y1="245" x2="1110" y2="245"
+        stroke="#172554"
+        stroke-width="2"/>
+
+  <circle cx="90" cy="245" r="5"
+          fill="#38BDF8"
+          filter="url(#glow)">
+    <animate attributeName="cx"
+             values="90;1110;90"
+             dur="7s"
+             repeatCount="indefinite"/>
+  </circle>
+
+  <text x="600" y="277"
+        text-anchor="middle"
+        fill="#64748B"
+        font-family="JetBrains Mono"
+        font-size="11"
+        letter-spacing="3">
+    LOADOUT UPDATED // LEARNING IN PROGRESS
+  </text>
+
+</svg>
